@@ -1,6 +1,7 @@
 #Lattice Maker
 
 ##Requirements
+
 *	Java (>= 6)
 *	Python (>= 2.7, < 3.0)
 *	GraphViz (>= 2.28)
